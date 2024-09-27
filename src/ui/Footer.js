@@ -13,6 +13,7 @@ function Footer() {
           <a
             href="https://www.linkedin.com/in/harsha-gowda-s0296/"
             target="_blank"
+            rel="noreferrer"
           >
             HARSHA SURESH
           </a>

@@ -67,6 +67,7 @@ function SwiperSlider({
                     class="btn"
                     title="Live site"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <IoIosGlobe />
                   </a>
@@ -77,6 +78,7 @@ function SwiperSlider({
                     class="btn"
                     title="GitHub"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     <FaGithub />
                   </a>

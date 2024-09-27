@@ -48,7 +48,11 @@ function About() {
               complex challenges into sleek, user-friendly solutions. My passion
               for innovative tech and clean code drives seamless, impactful
               digital experiences. Curently working at{" "}
-              <a href="https://www.akunatech.com/" target="_blank">
+              <a
+                href="https://www.akunatech.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Akuna technologies
               </a>{" "}
               as a Front-end developer.

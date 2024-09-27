@@ -61,6 +61,7 @@ function ContactMe() {
                 <a
                   href="https://www.linkedin.com/in/harsha-gowda-s0296/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -81,7 +82,11 @@ function ContactMe() {
                 </a>
               </div>
               <div class="contact-me-with-github btn">
-                <a href="https://github.com/Harsha0707" target="_blank">
+                <a
+                  href="https://github.com/Harsha0707"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <svg
                     height="24"
                     aria-hidden="true"
