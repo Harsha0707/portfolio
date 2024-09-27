@@ -29,7 +29,7 @@ function Projects() {
       description:
         "Fast Pizza co. project is about Pizza ordering app, where you can start ordering by entering your name you will get into menu page. Once you order the pizza in URL your order number will display like /order/HLK4W2, you search for your order status using order number HLK4W2.",
       imageURL: "../../images/fast-pizza.png",
-      tech: ["React.js", "tailwind.css"],
+      tech: ["React.js", "Redux.js", "tailwind.css"],
       liveURL: "https://fast-pizza-house.netlify.app/",
       githubURL: "https://github.com/Harsha0707/React-Fast-Pizza",
     },
