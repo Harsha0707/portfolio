@@ -62,7 +62,7 @@ function About() {
                 Download my curriculum vitae:
               </div>
               <a
-                href="../../resume/Harsha-suresh-resume.pdf"
+                href="../../resume/Harsha-Suresh-Resume.pdf"
                 class="btn about-btn"
                 download
               >
