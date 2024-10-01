@@ -376,6 +376,10 @@ a {
   box-shadow: var(--light-box-shadow);
 }
 
+.about-contact-icon.btn {
+  cursor: auto;
+}
+
 .about-content-sub-heading a {
   color: var(--color-primary);
 }
