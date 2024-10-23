@@ -37,7 +37,7 @@ function ContactMe() {
     <>
       <div id="contact-me" class="contact-me-container container">
         <div class="sub-heading">Contact</div>
-        <h2 class="primary-heading">Contact With Me</h2>
+        <h2 class="primary-heading">Contact Me</h2>
         <div class="contact-me-grid">
           <div class="contact-me-left-block block">
             <div class="contact-me-image">
