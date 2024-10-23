@@ -25,7 +25,7 @@ function ContactMe() {
 
     if (data.success) {
       setResult("");
-      toast.success("Message Submitted Successfully");
+      toast.success("Message sent successfully");
       event.target.reset();
     } else {
       setResult("");
