@@ -1096,13 +1096,13 @@ a {
   }
 }
 
-@media only screen and (max-width: 1291px) {
+@media only screen and (max-width: 1354px) {
   .header-nav-block {
     display: none;
   }
 }
 
-@media only screen and (min-width: 1292px) {
+@media only screen and (min-width: 1355px) {
   .mobile-menu-btn {
     display: none;
   }

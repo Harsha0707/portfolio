@@ -66,7 +66,7 @@ function Header() {
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#work-projects">
-                    Work Projects
+                    Shopify Work Projects
                   </a>
                 </li>
                 <li class="nav-item">

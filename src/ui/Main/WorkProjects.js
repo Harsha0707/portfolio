@@ -59,7 +59,7 @@ function WorkProjects() {
   return (
     <>
       <div id="work-projects" class="work-project-container container">
-        <h2 class="primary-heading">Work Projects</h2>
+        <h2 class="primary-heading">Shopify Work Projects</h2>
         <div class="work-projects-block">
           <div class="work-projects-slider">
             <SwiperSlider slides={slides} breakpoints={breakpoints} />
