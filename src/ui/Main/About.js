@@ -55,7 +55,7 @@ function About() {
               >
                 Akuna technologies
               </a>{" "}
-              as a Front-end developer.
+              as a Frontend developer.
             </div>
             <div class="about-content-text-block">
               <div class="about-content-text">

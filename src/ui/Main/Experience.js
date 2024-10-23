@@ -35,7 +35,7 @@ function Experience() {
         <div class="experience-block block">
           <div class="experience-sub-block">
             <div class="experience-heading-block">
-              <h4 class="experience-heading">Front-end Developer</h4>
+              <h4 class="experience-heading">Frontend Developer</h4>
               <div class="experience-sub-heading-block">
                 at <a href="https://www.akunatech.com/">Akuna technologies </a>
                 (March 2022 - present)
