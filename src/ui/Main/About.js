@@ -43,11 +43,11 @@ function About() {
               </h2>
             </div>
             <div class="about-content-sub-heading">
-              As a MERN stack developer, I specialize in building scalable,
-              high-performance applications with the MERN stack, transforming
-              complex challenges into sleek, user-friendly solutions. My passion
-              for innovative tech and clean code drives seamless, impactful
-              digital experiences. Curently working at{" "}
+              As a Web Developer, I specialize in building scalable,
+              high-performance applications with the MERN stack and Shopify
+              Themes, transforming complex challenges into sleek, user-friendly
+              solutions. My passion for innovative tech and clean code drives
+              seamless, impactful digital experiences. Curently working at{" "}
               <a
                 href="https://www.akunatech.com/"
                 target="_blank"

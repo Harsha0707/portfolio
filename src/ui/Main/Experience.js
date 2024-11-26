@@ -63,15 +63,19 @@ function Experience() {
                   boosting application performance.
                 </li>
                 <li class="experience-text">
+                  Design and Customize Shopify themes to create a unique and
+                  functionality online store experience. Also Troubleshoot and
+                  fix technical issues related to the Shopify store.
+                </li>
+                <li class="experience-text">
+                  Integrated third-party applications and services with the
+                  Shopify platform using APIs and webhooks. Also Optimize store
+                  performance for speed and user experience.
+                </li>
+                <li class="experience-text">
                   Collaborated in Agile teams to deliver scalable React
                   applications, consistently meeting project deadlines and
                   maintaining high-quality code standards.
-                </li>
-                <li class="experience-text">
-                  Customized Shopify themes and plugins using Liquid,
-                  JavaScript, and React.js to align with client branding and
-                  functionality needs, leading to a more personalized user
-                  experience.
                 </li>
               </ul>
             </div>
