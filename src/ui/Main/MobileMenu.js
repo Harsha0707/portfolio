@@ -37,11 +37,6 @@ function MobileMenu({ openMenu, handleMenuClose }) {
                 </a>
               </li>
               <li class="mobile-menu-list">
-                <a href="#work-projects" onClick={handleMenuClose}>
-                  Shopify Work Projects
-                </a>
-              </li>
-              <li class="mobile-menu-list">
                 <a href="#education" onClick={handleMenuClose}>
                   Education
                 </a>
