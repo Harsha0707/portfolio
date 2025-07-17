@@ -14,7 +14,6 @@ function Main() {
         <Skills />
         <Experience />
         <Projects />
-        <WorkProjects />
         <Education />
         <ContactMe />
       </main>
